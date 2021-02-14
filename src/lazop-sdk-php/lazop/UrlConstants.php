@@ -1,6 +1,6 @@
 <?php
 
-namespace 8commerce\PHPLazadaSDK;
+namespace 8commerce\LazadaSDK;
 
 class UrlConstants
 {
