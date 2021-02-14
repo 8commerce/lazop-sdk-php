@@ -298,7 +298,7 @@ class LazopClient
 	{
 		$localIp = isset($_SERVER["SERVER_ADDR"]) ? $_SERVER["SERVER_ADDR"] : "CLI";
 		$logger = new LazopLogger;
-		$logger->conf["log_file"] = rtrim(LAZOP_SDK_WORK_DIR, '\\/') . '/' . "logs/lazopsdk.log." . date("Y-m-d");
+		$logger->conf["log_file"] = $_SERVER['DOCUMENT_ROOT']."/logs/lazopsdk.log." . date("Y-m-d");
 		$logger->conf["separator"] = "^_^";
 		$logData = array(
 		date("Y-m-d H:i:s"),
