@@ -1,3 +1,7 @@
+# 8Commerce 
+[8Commerce](http://www.8commerce.com) is Indonesia ecommerce enabler, e-fulfillment and logistic service. Our focus is your
+customer satisfaction by providing best online shopping experience.
+
 # PHP Library for the Lazada Open API
 Usage of this library is also available at [Lazada Open API](https://open.lazada.com)
 
