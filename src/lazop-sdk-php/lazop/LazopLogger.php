@@ -1,6 +1,6 @@
 <?php
 
-namespace 8commerce\LazadaSDK;
+namespace DelapanCommerce\LazadaSDK;
 
 class LazopLogger
 {

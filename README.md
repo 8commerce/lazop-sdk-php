@@ -23,8 +23,8 @@ Usage
 
 Sample usage:
 ```php
-use 8commerce\PHPLazadaSDK\LazopClient;
-use 8commerce\PHPLazadaSDK\LazopRequest;
+use DelapanCommerce\LazadaSDK\LazopClient;
+use DelapanCommerce\LazadaSDK\LazopRequest;
 
 ...
 $c = new LazopClient('https://api.lazada.test/rest', '${appKey}', '${appSecret}');
